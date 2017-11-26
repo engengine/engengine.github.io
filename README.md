@@ -1,3 +1,12 @@
+Powering engineering studies and research - for you, by you
+
+
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/engengine/engengine.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
