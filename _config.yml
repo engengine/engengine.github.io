@@ -1,2 +1,5 @@
-bundle install
-jekyll serve --watch
+jekyll-incorporated/
+├── _config.yml
+├── _assets/
+    ├── stylesheets/
+        ├── main.scss
